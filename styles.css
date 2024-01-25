@@ -29,8 +29,8 @@
 }
 
 #navbar__logo {
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #00ee9f;
+    background-image: linear-gradient(to top, #00ff55 0%, #007457 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -87,7 +87,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background-color: #f77062;
+    background-color: #4aca00;
     color: #fff;
 }
 
@@ -97,7 +97,7 @@
 }
 
 .navbar__links:hover {
-    color: #f77062;
+    color: #00cf00;
     transition: all 0.3s ease;
 }
 
@@ -126,7 +126,7 @@
     }
 
     .navbar__menu.active {
-        background: #131313;
+        background: #4e4e4e;
         top: 100%;
         opacity: 1;
         transition: all 0.5s ease;
