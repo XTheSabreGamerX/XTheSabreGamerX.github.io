@@ -644,7 +644,7 @@
 
 .linkservices__container {
     margin-top: 2%;
-    margin-left: 3%;
+    margin-left: 5%;
     display: grid;
     grid-template-columns: repeat(1, 4fr);  
 }
@@ -682,9 +682,9 @@
 }
 
 /* Responsive Section */
-@media screen and (max-width: 1245px) {
+@media screen and (max-width: 1440px) {
     .linkbutton {
-        width: 270px;
+        width: 300px;
         font-size: 40px;
     }
 }
